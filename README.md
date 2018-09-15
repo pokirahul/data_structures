@@ -1,2 +1,2 @@
 # data_structures
-starting from tree deletion
+starting from tree insertion
